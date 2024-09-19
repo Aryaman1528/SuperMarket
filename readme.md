@@ -1,4 +1,4 @@
-# Supermarket Lite
+# Supermarket
 
 
 In Module 2 (Object-Oriented Information Systems) of my master studies at the University of Essex I did an UML class diagram for a Supermaarket using StarUML. I wanted to push the project further so created this project to practice class diagram implementation in Python (OOP) and a database using SQL (MySQL and SQL Server). 
@@ -13,7 +13,7 @@ The project is divided in three parts:
 * main.py -> tests 
 * people_db.py -> connects to MySQL using Python  
 
-Supermarket Lite has 7 CLASSES:
+Supermarket  has 7 CLASSES:
 * customers.py 
 * loyaltyschemes.py 
 * payment.py 
